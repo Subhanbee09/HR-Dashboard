@@ -5,7 +5,7 @@ HR analytics project focused on employee turnover and visualization.
 - Monthly Income
 - Daily Rate
 - Hourly Rate
-- Total WOrking Years
+- Total Working Years
 - Years at company
 -  Num companies worked
  # Dashboard
