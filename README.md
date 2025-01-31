@@ -1,4 +1,4 @@
-# HR-Dashboard
+# HR-Data Dashboard
 ## Project Objective
 HR analytics project focused on employee turnover and visualization.
 ## KPI'S Requriements
